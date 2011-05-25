@@ -10,3 +10,6 @@
 [submodule "websites"]
 	path = websites
 	url = git@github.com:dataocd/websites.git
+[submodule "TaskManager"]
+	path = TaskManager
+	url = git@github.com:dataocd/TaskManager.git
