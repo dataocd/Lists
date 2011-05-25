@@ -1,3 +1,12 @@
 [submodule "ListFramework"]
 	path = ListFramework
 	url = git@github.com:dataocd/ListFramework.git
+[submodule "ListPackages"]
+	path = ListPackages
+	url = git@github.com:dataocd/ListPackages.git
+[submodule "SystemConfig"]
+	path = SystemConfig
+	url = git@github.com:dataocd/SystemConfig.git
+[submodule "websites"]
+	path = websites
+	url = git@github.com:dataocd/websites.git
